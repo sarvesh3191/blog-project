@@ -1,0 +1,46 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "9132f11c-94bc-4e7b-860e-34d14bbbb141",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1743134669590"
+        }
+      },
+      "favorite": {
+        "name": "Assessment Portal",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://krish:krish@assessment.ar5zh.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "f83088c6-ed98-44ff-912f-a67a8747fc87",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1744019362526"
+        }
+      },
+      "favorite": {
+        "name": "CCE",
+        "color": "color9"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://ihub:ihub@cce.ksniz.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
